@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'empanaditas de pollo'
+title: 'Empanadas de pollo'
 ---
 
-Excelene empanada cuyo interior alberga suficiente pollo desmenuzado que le encantará
+Excelente empanada cuyo interior alberga suficiente pollo desmenuzado que le encantará
