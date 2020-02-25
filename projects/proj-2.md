@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Empanadas mixta'
+title: 'Empanadas mixtas'
 ---
 
-Empanadas llenas de queso y mortadela que son ricas para el paladar
+Deliosa empanada rellena de queso y jamón, el cual crea un arcoiris de sabores en tu paladar
