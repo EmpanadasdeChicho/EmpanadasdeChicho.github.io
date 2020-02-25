@@ -2,7 +2,6 @@
 # General Site Settings
 
 menu:
-- {name: 'Menu', url: 'https://cristopher-gomez-m.github.io/afk/'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -38,6 +37,7 @@ disqus:
 # About Section
 
 contact: >
+
   # Contact
   Lo puede encontrar al frente de la facultad de ciencias computacionales de la universidad de Guayaquil
 
