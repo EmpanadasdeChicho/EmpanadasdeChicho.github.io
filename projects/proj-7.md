@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Empanas de pizza'
+title: 'Empanadas de pizza'
 ---
 
-Deliosa empanada rellena de queso y jamón, el cual crea un arcoiris de sabores en tu paladar
+Deliosa empanada rellena de queso y jamón, el cual crea un arcoiris de sabores en tu paladar.
