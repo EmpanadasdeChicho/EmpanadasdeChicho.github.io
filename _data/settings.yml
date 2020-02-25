@@ -60,7 +60,7 @@ projects:
 - {name: 'Empanadas de carne', folder: 'proj-5', file: 'projects/proj-5.html'}
 - {name: 'Empanadad de queso', folder: 'proj-6', file: 'projects/proj-6.html'}
 - {name: 'Empanadas de pizza', folder: 'proj-7', file: 'projects/proj-7.html'}
-- {name: 'Empanadas mexcanas', folder: 'proj-8', file: 'projects/proj-8.html'}
+- {name: 'Empanadas mexicanas', folder: 'proj-8', file: 'projects/proj-8.html'}
 
 #-------------------------------
 # Contact Section
