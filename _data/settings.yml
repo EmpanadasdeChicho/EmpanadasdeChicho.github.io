@@ -2,9 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
+- {name: 'Menu', url: 'https://cristopher-gomez-m.github.io/afk/'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -47,7 +45,8 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Lo puede encontrar al frente de la facultad de ciencias computacionales de la universidad de Guayaquil
+  https://www.google.com/maps/place/Edificio+Torres+de+La+Merced/@-2.1903656,-79.8818191,19z/data=!3m1!4b1!4m5!3m4!1s0x902d6e78c08f947b:0x5882ae0ad1330363!8m2!3d-2.1903656!4d-79.8812706?hl=es
 
 #-------------------------------
 # Work Section
