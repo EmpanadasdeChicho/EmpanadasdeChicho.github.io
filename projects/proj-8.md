@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'empanaditas de queso'
+title: 'Empanadas mexicanas'
 ---
 
-Come tu cosa rapido
+Exquisita empanada rellena de carne molida y frejol, esto con una pequeña porción de ají que se derrite en el paladar.
