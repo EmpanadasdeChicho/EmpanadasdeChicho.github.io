@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'empanaditas de queso'
+title: 'Empanadas de queso'
 ---
 
-Come tu cosa rapido
+Ricas masa de harina rellena de suficiente queso que hace saborear el paladaar
