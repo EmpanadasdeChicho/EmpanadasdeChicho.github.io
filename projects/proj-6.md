@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'empanaditas de queso'
+title: 'empanaditas de pollo'
 ---
 
-Come tu cosa rapido
+Excelene empanada cuyo interior alberga suficiente pollo desmenuzado que le encantará
