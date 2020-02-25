@@ -64,19 +64,11 @@ projects:
 #-------------------------------
 # Contact Section
 
-# Socialmedia Icons
-social_icons:
-
-  - name: github
-    link: https://github.com/cristopher-gomez-m
-    icon: fab fa-github-square
-
-  - name: facebook
-    link: https://www.facebook.com/cristopheralexander.gomezmartillo
-    icon: fab fa-facebook-square
-
-  - name: twitter
-    link: https://twitter.com/Alex27392304
-    icon: fab fa-twitter
+social:
+- {icon: 'facebook', link: '#'}
+- {icon: 'instagram', link: '#'}
+- {icon: 'github', link: '#'}
+- {icon: 'linkedin', link: '#'}
+- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
