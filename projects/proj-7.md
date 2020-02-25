@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'empanaditas de queso'
+title: 'Empanas de pizza'
 ---
 
-Come tu cosa rapido
+Deliosa empanada rellena de queso y jamón, el cual crea un arcoiris de sabores en tu paladar
