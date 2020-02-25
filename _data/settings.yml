@@ -46,7 +46,7 @@ contact: >
   # Contact
 
   Lo puede encontrar al frente de la facultad de ciencias computacionales de la universidad de Guayaquil
-  https://www.google.com/maps/place/Edificio+Torres+de+La+Merced/@-2.1903656,-79.8818191,19z/data=!3m1!4b1!4m5!3m4!1s0x902d6e78c08f947b:0x5882ae0ad1330363!8m2!3d-2.1903656!4d-79.8812706?hl=es
+  <a href=”https://www.google.com/maps/place/Edificio+Torres+de+La+Merced/@-2.1903656,-79.8818191,19z/data=!3m1!4b1!4m5!3m4!1s0x902d6e78c08f947b:0x5882ae0ad1330363!8m2!3d-2.1903656!4d-79.8812706?hl=es”>Empanadas_de_Chicho</a>
 
 #-------------------------------
 # Work Section
@@ -66,10 +66,4 @@ projects:
 
 social:
 - {name: 'facebook', link: 'https://www.facebook.com/pg/LasEmpanadasDeChicho/about/?ref=page_internal', icon: 'fab fa-facebook-square'}
-    
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
-
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
