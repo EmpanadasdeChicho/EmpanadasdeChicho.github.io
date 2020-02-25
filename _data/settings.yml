@@ -65,7 +65,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'facebook', link: '#'}
+- {name: facebook 
+   link: https://www.facebook.com/cristopheralexander.gomezmartillo 
+    icon: fab fa-facebook-square}
+    
 - {icon: 'instagram', link: '#'}
 - {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: '#'}
