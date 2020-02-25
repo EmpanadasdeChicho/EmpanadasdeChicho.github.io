@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Empanadas de pollo'
+title: 'Empanadas de carne'
 ---
 
-Excelene empanada cuyo interior alberga suficiente pollo desmenuzado que le encantará  
+Rica masa de harina rellena de carne molida,pasa,huevo cocinado y mani.
