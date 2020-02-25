@@ -65,7 +65,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'facebook', link: '#https://www.facebook.com/pg/LasEmpanadasDeChicho/about/?ref=page_internal'}
+- {icon: 'facebook', link: 'https://www.facebook.com/pg/LasEmpanadasDeChicho/about/?ref=page_internal'}
 - {icon: 'instagram', link: '#'}
 - {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: '#'}
