@@ -66,7 +66,7 @@ projects:
 
 social:
 - {name: facebook 
-   link: https://www.facebook.com/cristopheralexander.gomezmartillo 
+   link: 'https://www.facebook.com/cristopheralexander.gomezmartillo' 
     icon: fab fa-facebook-square}
     
 - {icon: 'instagram', link: '#'}
