@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Contact', url: 'pages/contact.html'}
+- {name: 'Contactanos', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -37,7 +37,7 @@ disqus:
 # About Section
 
 contact: >
-  # Contact
+  # Contactanos
   
   Lo puede encontrar al frente de la facultad de ciencias computacionales de la universidad de Guayaquil
   Llamar 1131562578
